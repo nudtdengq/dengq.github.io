@@ -1,10 +1,12 @@
-## Welcome to GitHub Pages
+## Bio
 
-You can use the [editor on GitHub](https://github.com/nudtdengq/dengq.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am an Assistant Professor in the School of Computer Science and Technology at National University of Defense Technology. Before that, I received my PhD in the School of Computer Science and Technology at National University of Defense Technology in 2019. I was also a visiting PhD student in the Computer Science Department at University of Pittsburgh, Pittsburgh, PA, USA. 
+My research interest are computer architecture and processing-in-memory accelerator.
+My papers have been published in major conferences and journals, including TCAD, DAC, ICCAD etc.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+###
 
-### Markdown
+## Publications (Google Scholar)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
